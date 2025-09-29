@@ -21,8 +21,9 @@ My mission is simple: to make Robotics, Embedded Systems, and Artificial Intelli
 ### **🌍 Let’s Connect!**  
 I’m always open to collaborations and conversations about advancing robotics and AI engineering. Feel free to reach out!  
 
-📧 Email: [okiokpapeter@gmail.com](mailto:okiokpapeter@gmail.com)  
+📧 Email: [okiokpapeter@gmail.com](mailto:reach@thepeteleba.com.ng)  
 🌐 Website: [thepeteleba.com.ng](https://thepeteleba.com.ng)  
-🌐 LinkedIn: [Peter Okiokpa](https://linkedin.com/in/thepeteleba)  
+🌐 LinkedIn: [Peter Okiokpa](https://linkedin.com/in/thepeteleba)
+🌐 Twitter: [Peter Okiokpa](https://Twitter.com/in/thepeteleba)
 
 Let’s build something impactful together 🚀! 
